@@ -5,10 +5,24 @@ Also, feel free to submit change requests as issues, I'll work to resolve them.
 
 Thanks to many people that helped put this together; it's great what the community can do to help each other out!
 
+#Table of Contents
+*[Development](#development)
+ *[Learning](#learning)
+ *[Experience|Competitive Coding](#exp-comp-coding)
+ *[Coding Interview Specific](#interview-specific)
+ *[Miscellaneous Tools](#misc-tools)
+*[Branding](#branding)
+ *[Resume Creation](#resume-creation)
+ *[Networking](#networking)
+ *[Personal Marketing](#personal-marketing)
+ *[Tech News](#tech-news)
+
+<a name="development"></a>
 ##Development
 
 http://www.google.com/about/careers/students/guide-to-technical-development.html
 
+<a name="learning"></a>
 ###Learning:
 http://teamtreehouse.com/
 
@@ -40,7 +54,7 @@ https://www.coursera.org/
 
 https://hackdesign.org/ (Design)
 
-
+<a name="exp-comp-coding"></a>
 ###Experience|Competitive Coding:
 http://xubuntu.org/contribute/ (Open Source)
 
@@ -76,6 +90,7 @@ http://www.topcoder.com/ (PAID)
 
 https://www.mindsumo.com/ (PAID)
 
+<a name="interview-specific"></a>
 ###Coding Interview Specific:
 http://www.dsalgo.com/2013/02/FindMinMax.php.html
 
@@ -87,6 +102,7 @@ http://www.glassdoor.com/Interview/programming-interview-questions-SRCH_KT0,11.h
 
 http://www.bigriddles.com/microsoft-interview-riddles
 
+<a name="misc-tools"></a>
 ###Miscellaneous Tools:
 https://koding.com/
 
@@ -110,10 +126,11 @@ http://tympanus.net/Development/TextInputEffects/
 
 https://www.firebase.com/
 
-
+<a name="branding"></a>
 ##Branding
 https://medium.com/@rrhoover/blogging-is-the-new-resume-b90eec4f928
 
+<a name="resume-creation"></a>
 ###Resume Creation:
 http://resume.linkedinlabs.com/
 
@@ -121,12 +138,13 @@ https://represent.io/
 
 http://www.latex-project.org/
 
-
+<a name="networking"></a>
 ###Networking:
 https://www.internmatch.com/ (Formerly ReadyForce)
 
 https://www.lytmus.io/
 
+<a name="personal-marketing"></a>
 ###Personal Marketing:
 https://medium.com/  (personal/professional blogging)
 
@@ -142,6 +160,7 @@ https://www.behance.net/  (design portfolio)
 
 https://dribbble.com/  (design portfolio)
 
+<a name="tech-news"></a>
 ###Tech News:
 https://news.ycombinator.com/
 
