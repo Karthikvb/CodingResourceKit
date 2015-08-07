@@ -6,25 +6,25 @@ Also, feel free to submit change requests as issues, I'll work to resolve them.
 Thanks to many people that helped put this together; it's great what the community can do to help each other out!
 
 #Table of Contents
-*[Development](#development)
+* [Development](#development)
 
- *[Learning](#learning)
+ * [Learning](#learning)
 
- *[Experience|Competitive Coding](#exp-comp-coding)
+ * [Experience|Competitive Coding](#exp-comp-coding)
 
- *[Coding Interview Specific](#interview-specific)
+ * [Coding Interview Specific](#interview-specific)
 
- *[Miscellaneous Tools](#misc-tools)
+ * [Miscellaneous Tools](#misc-tools)
 
-*[Branding](#branding)
+* [Branding](#branding)
 
- *[Resume Creation](#resume-creation)
+ * [Resume Creation](#resume-creation)
 
- *[Networking](#networking)
+ * [Networking](#networking)
 
- *[Personal Marketing](#personal-marketing)
+ * [Personal Marketing](#personal-marketing)
 
- *[Tech News](#tech-news)
+ * [Tech News](#tech-news)
 
 <a name="development"></a>
 ##Development
