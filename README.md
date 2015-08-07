@@ -1,7 +1,9 @@
-# CodingResourceKit
+# Coding Resource Kit
 Feel like you need help expanding your coding career? Here's some sources to boost both your soft AND hard skillsets.
 
 Also, feel free to submit change requests as issues, I'll work to resolve them.
+
+Thanks to many people that helped put this together; it's great what the community can do to help each other out!
 
 ##Development
 
@@ -77,9 +79,9 @@ https://www.mindsumo.com/ (PAID)
 ###Coding Interview Specific:
 http://www.dsalgo.com/2013/02/FindMinMax.php.html
 
-http://codingbat.com/ (Slightly)
+http://codingbat.com/ (more beginner-based)
 
-http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
+http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X (HIGHLY recommend)
 
 http://www.glassdoor.com/Interview/programming-interview-questions-SRCH_KT0,11.htm
 
@@ -126,17 +128,23 @@ https://www.internmatch.com/ (Formerly ReadyForce)
 https://www.lytmus.io/
 
 ###Personal Marketing:
-https://medium.com/
+https://medium.com/  (personal/professional blogging)
 
-https://www.linkedin.com/
+https://www.linkedin.com/  (online resume of sorts)
 
-https://www.facebook.com/
+http://stackoverflow.com/  (way to track helpful contributions/debugging skills)
 
-http://stackoverflow.com/
+https://github.com/  (kind of a code portfolio, but also just useful)
 
-https://github.com/
+https://www.flickr.com/  (photography portfolio)
+
+https://www.behance.net/  (design portfolio)
+
+https://dribbble.com/  (design portfolio)
 
 ###Tech News:
+https://news.ycombinator.com/
+
 http://www.producthunt.com/
 
 http://www.businessinsider.com/
