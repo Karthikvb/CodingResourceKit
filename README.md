@@ -7,23 +7,15 @@ Thanks to many people that helped put this together; it's great what the communi
 
 #Table of Contents
 * [Development](#development)
-
  * [Learning](#learning)
-
  * [Experience|Competitive Coding](#exp-comp-coding)
-
  * [Coding Interview Specific](#interview-specific)
-
  * [Miscellaneous Tools](#misc-tools)
 
 * [Branding](#branding)
-
  * [Resume Creation](#resume-creation)
-
  * [Networking](#networking)
-
  * [Personal Marketing](#personal-marketing)
-
  * [Tech News](#tech-news)
 
 <a name="development"></a>
